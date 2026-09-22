@@ -103,6 +103,7 @@
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
 |[Simulateur de Daltonisme (RGAA Checker)](https://rgaa-checker.com/outils/simulateur-daltonisme)|Free browser tool that simulates how a page or image is perceived under different types of colour blindness (protanopia, deuteranopia, tritanopia, achromatopsia). FR.
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
+|[UX Academy Colour Contrast Checker](https://myuxacademy.com/tools/contrast-checker/)|Free WCAG contrast checker that tests foreground and background colours and suggests the nearest passing colour.|
 |[Smart Color Contrast Assistant](https://www.thecolorcontrastchecker.com)| Free, no-login WCAG contrast checker with ML-based accessible color suggestions. Also available as a [Figma plugin](https://www.figma.com/community/plugin/1548100074928472068)|
 |[Who Can use](https://whocanuse.com/)||
 
